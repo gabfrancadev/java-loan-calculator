@@ -1,4 +1,4 @@
-\# Java Loan Calculator
+# Java Loan Calculator
 
 
 
@@ -8,15 +8,15 @@ A simple command-line loan calculator written in Java.
 
 This project calculates the monthly payment of a loan based on:
 
-\- Loan amount
+- Loan amount
 
-\- Annual interest rate
+- Annual interest rate
 
-\- Loan duration in years
+- Loan duration in years
 
 
 
-\## How it works
+## How it works
 
 
 
@@ -24,15 +24,15 @@ The program uses the standard loan amortization formula to compute the monthly p
 
 
 
-\## Technologies
+## Technologies
 
-\- Java (JDK 17+)
+- Java (JDK 17+)
 
-\- Command Line (CLI)
+- Command Line (CLI)
 
 
 
-\## Project structure
+## Project structure
 
 src/
 
@@ -46,7 +46,7 @@ src/
 
 
 
-\## How to run
+## How to run
 
 
 
@@ -58,7 +58,7 @@ Run: java -cp src com.gabriel.finance.Main
 
 
 
-\## Example
+## Example
 
 
 
@@ -72,7 +72,7 @@ The monthly payment is $599.55
 
 
 
-\## Author
+## Author
 
 Gabriel França
 
